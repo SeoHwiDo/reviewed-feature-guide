@@ -1,0 +1,7 @@
+{
+  "name": "reviewed-feature-guide",
+  "version": "1.0.0",
+  "description": "Reviewed feature design and user-paced implementation guidance.",
+  "license": "MIT",
+  "skills": "./skills/"
+}
